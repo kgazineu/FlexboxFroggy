@@ -1,0 +1,197 @@
+/*DESAFIO 1*/
+
+#pond {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/*DESAFIO 2*/
+
+#pond {
+  display: flex;
+  justify-content: center;
+}
+
+/*DESAFIO 3*/
+
+#pond {
+  display: flex;
+  justify-content:space-around;
+}
+
+/*DESAFIO 4*/
+
+#pond {
+  display: flex;
+justify-content: space-between;
+}
+
+/*DESAFIO 5*/
+
+#pond {
+  display: flex;
+align-items: flex-end;
+}
+
+/*DESAFIO 6*/
+
+#pond {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+
+/*DESAFIO 7*/
+
+#pond {
+  display: flex;
+justify-content: space-around;
+align-items: flex-end;
+}
+
+/*DESAFIO 8*/
+
+#pond {
+  display: flex;
+flex-direction: row-reverse;
+}
+
+/*DESAFIO 9*/
+
+#pond {
+  display: flex;
+  flex-direction: column;
+}
+
+/*DESAFIO 10*/
+
+#pond {
+  display: flex;
+flex-direction: row-reverse;
+justify-content: flex-end;
+}
+
+/*DESAFIO 11*/
+
+#pond {
+  display: flex;
+flex-direction: column;
+justify-content: flex-end;
+}
+
+/*DESAFIO 12*/
+
+#pond {
+  display: flex;
+justify-content: space-between;
+flex-direction: column-reverse;
+}
+
+/*DESAFIO 13*/
+
+#pond {
+  display: flex;
+align-items: flex-end;
+justify-content: center;
+flex-direction: row-reverse;
+}
+
+/*DESAFIO 14*/
+
+#pond {
+  display: flex;
+}
+
+.yellow {
+order: 1;
+}
+
+/*DESAFIO 15*/
+
+#pond {
+    display: flex;
+  }
+  
+  .red {
+  order: -1;
+  }
+
+/*DESAFIO 16*/
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+align-self: flex-end;
+}
+
+/* DESAFIO 17 */
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+order: 1;
+align-self: flex-end;
+}
+
+/* DESAFIO 18 */ 
+
+#pond {
+  display: flex;
+flex-wrap: wrap;
+}
+
+/* DESAFIO 19 */ 
+
+#pond {
+  display: flex;
+flex-wrap: wrap;
+flex-direction: column; 
+}
+
+/* DESAFIO 20 */
+
+#pond {
+  display: flex;
+flex-flow: column wrap;
+}
+
+/* DESAFIO 21 */ 
+
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+align-content: flex-start
+}
+
+/* DESAFIO 22 */ 
+
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+align-content: flex-end; 
+}
+
+/* DESAFIO 23 */ 
+
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+flex-direction: column-reverse;
+align-content: center;
+}
+
+/* DESAFIO 24 */ 
+
+#pond {
+  display: flex;
+justify-content: center;
+flex-flow: column-reverse;
+align-content: space-between;
+flex-wrap: wrap-reverse;
+}
